@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559423599542",
+    "firebase_url": "https://tpdmu5proyecto2.firebaseio.com",
+    "project_id": "tpdmu5proyecto2",
+    "storage_bucket": "tpdmu5proyecto2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559423599542:android:d043c75bfbe5f913",
+        "android_client_info": {
+          "package_name": "com.example.clowntoy.tpdm_u5_practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559423599542-dgpmj0assif91j2d6tn0bj0nc4t86or8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2R7v7hvKKTxOxeGQbdsp-JxSxktLEtKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559423599542-dgpmj0assif91j2d6tn0bj0nc4t86or8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
